@@ -1,0 +1,6 @@
+/* Add application styles & imports to this file! */
+
+.flex-container {
+  display: flex;
+  column-gap: 0.5em;
+}
